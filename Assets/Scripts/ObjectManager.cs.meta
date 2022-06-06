@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f13385e31f9593e4387319b628cdd193
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spacecraftLPrefab: {fileID: 7866424492173566855, guid: a32a112d3b7f90747ab4b861580e7171, type: 3}
+  - spacecraftMPrefab: {fileID: 6283480929851956528, guid: bfef0aea72b2a19438c2b3be064a1b44, type: 3}
+  - spacecraftSPrefab: {fileID: 97834739721520568, guid: d417c5fc264d6c142add16cf6536beeb, type: 3}
+  - itemCoinPrefab: {fileID: 3847540355997269618, guid: eb0a02ef91341234582887e862f3abd8, type: 3}
+  - itemPowerPrefab: {fileID: 5011647938240329231, guid: 4d71bbb46105603468ec01c50ba9522e, type: 3}
+  - itemBoomPrefab: {fileID: 139912783087104259, guid: faf1cdfffcac81843b7cd93ab78b7ca6, type: 3}
+  - bulletPlayerAPrefab: {fileID: 3985893049328761953, guid: 2cce2c13d3bf597438a4781310f7544b, type: 3}
+  - bulletPlayerBPrefab: {fileID: 7298764603228122694, guid: 02a8a4a199f68fb44a1eb1f7a694c2db, type: 3}
+  - bulletSpacecraftAPrefab: {fileID: 7298764603228122694, guid: f2498148d7c32be44931474294bb1258, type: 3}
+  - bulletSpacecraftBPrefab: {fileID: 7298764603228122694, guid: 6c1dd43dff575a34abaf203a5b479e99, type: 3}
+  - bulletFollowerPrefab: {instanceID: 0}
+  - bulletDogAPrefab: {fileID: 7298764603228122694, guid: 57a2c64909c215e4083accbcb1bab6a5, type: 3}
+  - bulletDogBPrefab: {fileID: 7298764603228122694, guid: 28f97fe8327aa094eade044e33b83826, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
